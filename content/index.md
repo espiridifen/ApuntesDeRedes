@@ -24,7 +24,7 @@ cssclasses:
 	* [[2024-05-15_16.04 La máscara de red]]
 	* [[2024-05-15_16.09 Direcciones especiales]]
 	* [[2024-05-15_16.59 Direcciones públicas y administración y registro de direcciones]]
-* 
+*
 
 ### 1.3 La Capa de Transporte. Protocolos TCP y UDP
 ### 1.4 Servicios de Red, DHCP, DNS y Firewalls
@@ -52,9 +52,9 @@ cssclasses:
  - [x] 1.1
  - [x] 1.2
  - [x] 1.3
- - [x] 1.4 
+ - [x] 1.4
 ### Progamación en Red
- 
+
  - [ ] 2.1
  - [ ] 2.2
 ***
