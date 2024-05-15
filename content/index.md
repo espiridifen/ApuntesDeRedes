@@ -25,10 +25,16 @@ cssclasses:
 	* [[2024-05-15_16.09 Direcciones especiales]]
 	* [[2024-05-15_16.59 Direcciones públicas y administración y registro de direcciones]]
 * [[2024-05-15_17.03 Protocolo IP]]
-* [[2024-05-15_18.39 Fragmentación de datagramas]]
-* [[2024-05-15_19.06 Protocolo de resolución de direcciones, ARP]]
-* [[2024-05-15_19.23 ICMP, Internet Control Message Protocol]]
-
+	* [[2024-05-15_18.39 Fragmentación de datagramas]]
+	* [[2024-05-15_19.06 Protocolo de resolución de direcciones, ARP]]
+	* [[2024-05-15_19.23 ICMP, Internet Control Message Protocol]]
+* [[2024-05-15_20.23 Encaminamiento en Internet]]
+	* [[2024-05-15_20.49 Retransmisión de paquetes (Forwarding Plane)]]
+	* [[2024-05-15_20.53 Next-Hop Routing]]
+	* [[2024-05-15_21.00 Tablas de encaminamiento]]
+	* [[2024-05-15_21.17 Mecanismo de Retransmisión]]
+	* [[2024-05-15_21.20 Algoritmos de Encaminamiento]]
+	* [[2024-05-15_21.24 Encaminamiento por vector de distancias]]
 ### 1.3 La Capa de Transporte. Protocolos TCP y UDP
 ### 1.4 Servicios de Red, DHCP, DNS y Firewalls
 
@@ -55,9 +61,9 @@ cssclasses:
  - [x] 1.1
  - [x] 1.2
  - [x] 1.3
- - [x] 1.4 
+ - [x] 1.4
 ### Progamación en Red
- 
+
  - [ ] 2.1
  - [ ] 2.2
 ***
